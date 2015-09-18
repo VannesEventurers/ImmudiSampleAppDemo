@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //Test for fork commit source
         //test for fork commit and merger
+        //Removed un wanted comments
     }
 
     @Override
